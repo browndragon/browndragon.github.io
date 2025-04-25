@@ -97,6 +97,7 @@ pageviews:
 theme_mode: dark  # [light | dark]
 
 # the avatar on sidebar, support local or CORS resources
+# THIS IS A RESOURCE (it's relative to the cdn & other asset/image nonsense!)
 avatar: favicon.ico
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
