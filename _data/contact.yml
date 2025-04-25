@@ -2,17 +2,18 @@
 
 - type: github
   icon: "fab fa-github"
-  url: "github.com/browndragon"
+  url: "https://github.com/browndragon"
 
 - type: bluesky
   icon: "fa-brands fa-bluesky"
-  url: "bsky.app/profile/browndragongames.bsky.social"
+  url: "https://bsky.app/profile/browndragongames.bsky.social"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-  url: "browndragon@googlegroups.com"
+  url: "https://browndragon@googlegroups.com"
 
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+  url: "/feed.xml"
