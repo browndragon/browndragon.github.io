@@ -37,7 +37,7 @@ github:
   username: browndragon # change to your GitHub username
 
 bluesky:
-  username: browndragongames # change to your Twitter username
+  username: browndragongames # change to your Twitter/etc username
 
 social:
   # Change to your full name.
@@ -99,7 +99,6 @@ theme_mode: dark  # [light | dark]
 # the avatar on sidebar, support local or CORS resources
 # THIS IS A RESOURCE (it's relative to the cdn & other asset/image nonsense!)
 avatar: favicon.ico
-
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: favicon.icon # string, local or CORS resources
