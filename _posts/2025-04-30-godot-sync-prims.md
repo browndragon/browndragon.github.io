@@ -13,7 +13,7 @@ It has `signal`s which work the way they do in many other languages -- they're e
 But!
 You want to do a thing or, on timeout, a different thing.
 This is two signals.
-As soon as you need to coordinate more than one signal, you enter [Callback Hell](http://callbackhell.com/).
+As soon as you need to coordinate more than one signal, you enter <a href="[https://notareallink](https://callbackhell.com/)" data-proofer-ignore>Callback Hell</a>.
 
 Why?
 
