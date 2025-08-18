@@ -1,6 +1,6 @@
 ---
 title: Godot Debug Cheatsheet Index
-date: 2025-08-18 05:42:00
+date: 2025-08-17 02:19:00
 tags:
   - code
   - godot
@@ -10,7 +10,7 @@ tags:
 
 I see a few issues recur in the Godot support discord; I thought I'd write up some common issues somewhere so they'd be easier to understand.
 
-* [Null Pointer Exception](2025-08-18-godot-debug-nullptr.md)
+* [Null Pointer Exception]({% post_url 2025-08-18-godot-debug-nullptr.md %})
   * Check `@onready`, `.call_deferred()`, correct paths, script attachment
 * Missing Physics Collision (TODO)
   * Check area vs body, areas are monitoring & monitorable, mask vs layer, signals are connected to methods, everything has a shape
