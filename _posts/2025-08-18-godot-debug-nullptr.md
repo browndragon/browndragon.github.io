@@ -1,5 +1,5 @@
 ---
-title: Godot Debug Cheatsheet: Null Pointers
+title: "Godot Debug Cheatsheet: Null Pointers"
 date: 2025-08-18 02:19:00
 tags:
   - code
