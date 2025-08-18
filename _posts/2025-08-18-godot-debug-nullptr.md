@@ -12,7 +12,7 @@ tags:
 
 I see a lot of people get hung up on some of Godot's error messages, so I'm writing a little article to summarize how to read and resolve common issues I see on the discord.
 
-(Back to [the index]({% post_url 2025-08-17-godot-debug-idx.md %}))
+(Back to [the index]({% post_url 2025-08-17-godot-debug-idx %}))
 
 # Invalid call. Nonexistent function 'stop' in base 'Nil'
 
