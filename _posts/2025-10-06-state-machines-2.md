@@ -1,6 +1,7 @@
 ---
 title: "State Machines 2: l'État c'est moi"
 date: 2025-10-06 16:00:00
+mermaid: true
 tags:
   - code
   - godot

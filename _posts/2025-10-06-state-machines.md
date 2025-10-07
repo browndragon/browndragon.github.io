@@ -1,6 +1,7 @@
 ---
 title: "State Machines"
 date: 2025-10-06 10:00:00
+mermaid: true
 tags:
   - code
   - godot
